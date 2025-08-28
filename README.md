@@ -32,9 +32,10 @@ This project analyzes a combined dataset of ~1.4 million orders across ~120,000 
 
 *Dataset link: https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset*
 
-Entity–Relationship Diagram (ERD) of the Instacart dataset
+_Relational Schema of the Instacart dataset_
 
-<img width="584" height="357" alt="instacart RS" src="https://github.com/user-attachments/assets/4b13e6ee-a591-4d98-a717-e6796a613061" />
+<img width="584" height="357" alt="instacart RS" src="https://github.com/user-attachments/assets/7dc912b7-caf9-44a5-8c1f-f0b63805f93a" />
+
 
 ## Executive Summary
 Instacart's basket analsyis of around 1.4 million orderes across 120k users showed an average basket size of 3 items and an overall reorder rate near 80%. Sunday and Monday were the top two days in terms of order volume, with most activity occuring between 9 AM and 4 PM. Produce was the leading department with around 1.4 million items purchased, and a high reorder rate of around 81%. Regarding customer retention, 93% of users placed at least two orders, however that share dropped to 64% at five orders and 37% at ten. Basket analysis revealed that Instacart is mostly used for specific, time-sensitive needs as 35% of all orders only contained one item.
