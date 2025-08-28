@@ -34,7 +34,11 @@ This project analyzes a combined dataset of ~1.4 million orders across ~120,000 
 
 _Relational Schema of the Instacart dataset_
 
-<img width="584" height="357" alt="instacart RS" src="https://github.com/user-attachments/assets/7dc912b7-caf9-44a5-8c1f-f0b63805f93a" />
+<table>
+  <tr>
+    <td><img width="584" height="357" alt="instacart RS" src="https://github.com/user-attachments/assets/7dc912b7-caf9-44a5-8c1f-f0b63805f93a" /></td>
+   </tr>
+</table>
 
 
 ## Executive Summary
@@ -42,7 +46,12 @@ Instacart's basket analsyis of around 1.4 million orderes across 120k users show
  
 
 ## Key KPIs
-<img width="1002" height="89" alt="Screenshot 2025-08-25 at 11 51 18 AM" src="https://github.com/user-attachments/assets/c3da58a1-425c-4232-9dad-b5705b5d9c2c" />
+<table>
+  <tr>
+    <td><img width="1104" height="106" alt="Screenshot 2025-08-28 at 5 36 37 PM" src="https://github.com/user-attachments/assets/c2948617-6412-4f04-ad82-e88f8112302f" /></td>
+   </tr>
+</table>
+
 
 ## Exploratory Insights
 
