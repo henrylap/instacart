@@ -82,14 +82,14 @@ Order volume peaks on Sundays and Mondays, which indicates that customers are mo
 
 <table>
   <tr>
-    <td><table><img width="500" height="400" alt="Order Volume by Day of Week" src="https://github.com/user-attachments/assets/5726ed86-e0d8-47cc-8295-1834aadcd8d4" /></td>
-    <td><img width="500" height="400" alt="Order Volume by Hour of Day" src="https://github.com/user-attachments/assets/b2fe59e8-37d9-4b5e-9aac-11777b58cbbd" /></td>
+    <td><table><img width="400" height="400" alt="Order Volume by Day of Week" src="https://github.com/user-attachments/assets/5726ed86-e0d8-47cc-8295-1834aadcd8d4" /></td>
+    <td><img width="400" height="400" alt="Order Volume by Hour of Day" src="https://github.com/user-attachments/assets/b2fe59e8-37d9-4b5e-9aac-11777b58cbbd" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img width="500" height=400" alt="Reorder Rate by Hour of Day" src="https://github.com/user-attachments/assets/25209990-2c2d-4722-8e56-9763f1940d0e" /></td>
+    <td><img width="900" height=500" alt="Reorder Rate by Hour of Day" src="https://github.com/user-attachments/assets/25209990-2c2d-4722-8e56-9763f1940d0e" /></td>
    </tr>
 </table>
 
