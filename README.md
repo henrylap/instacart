@@ -1,4 +1,3 @@
-# :
 ## Table of Contents
 - [Project Background](#project-background)
 - [Tools Used](#tools-used)
