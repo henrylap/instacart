@@ -61,31 +61,29 @@ Most users who continue to use Instacart place their second order within 7 days,
 
 <table>
   <tr>
-    <td><img width="1040" height="600" alt="Screenshot 2025-08-25 at 4 10 06 PM" src="https://github.com/user-attachments/assets/4edfb0d2-1e8b-48dd-8662-6bfb3e8d0f6a" /></td>
-    <td><img width="1040" height="600" alt="Screenshot 2025-08-25 at 4 10 35 PM" src="https://github.com/user-attachments/assets/21ec359e-fe8c-485a-9d0e-b58b6aee4e4e" /></td>
-  </tr>
+    <td><img width="1003" height="562" alt="Days Until Second Order" src="https://github.com/user-attachments/assets/afd33a71-9117-428e-9c7e-fc306b4f8822" /></td>
+    <td><img width="1000" height="565" alt="Reorder Rate by Order Number" src="https://github.com/user-attachments/assets/e2970966-4aad-47e2-87a4-8afac0499f14" /></td>
+ </tr>
 </table>
 
- 
+
  ### Basket Analysis 
 The data reveals that Instacart shoppers usually make small, time-sensitive purchases rather than a full-blown grocery run. With an overall average basket size of around 3 items, and 35% of all orders containing just one item, it's clear that the main use for the platform is for specific needs. This behavior is reinforced by the department diversity data, which shows that shoppers generally stick to a single department per order.
 
 <table>
   <tr>
-  <td><img width="839" height="609" alt="Screenshot 2025-08-27 at 6 59 12 PM" src="https://github.com/user-attachments/assets/615fea65-3f6d-4e83-8678-0dda148362f1" /><td>
-  <td><img width="710" height="608" alt="Screenshot 2025-08-27 at 6 57 27 PM" src="https://github.com/user-attachments/assets/5b03ff48-7d64-49c9-bd2b-92be02f4727f" /><td>
+  <td><img width="878" height="601" alt="Basket Distribution" src="https://github.com/user-attachments/assets/35752b2d-bf93-4ee2-b226-6c20e35aaa05" /><td>
+  <td><img width="744" height="608" alt="Department Diversity" src="https://github.com/user-attachments/assets/e7cf0262-5ab4-4565-abcf-7a3ca0604863" /><td>
    </tr>
 </table>
-
-
 
 ### Order Behavior Over Time
 Order volume peaks on Sundays and Mondays, which indicates that customers are most likely to stock up at the start of the week. Furthermore, order activity increases heavily in the morning, peaks between 10 AM and 3 PM, and then slowly tapers off into the evening. Reorders, however, follow a different pattern, peaking in the morning hours (6 AM - 10 AM), especially on weekdays. While overall traffic peaks mid-day, repeat customers are more liekly to place orders earlier in the morning.
 
 <table>
   <tr>
-    <td><img width="850" height="450" alt="Screenshot 2025-08-25 at 12 39 58 PM" src="https://github.com/user-attachments/assets/f1f42e0d-61e8-47a6-8212-5eb301df4140" /></td>
-    <td><img width="1067" height="606" alt="Screenshot 2025-08-25 at 3 13 29 PM" src="https://github.com/user-attachments/assets/7fecea11-f751-4ac3-a0c1-51db4bb931d6" /></td>
+    <td><table><img width="686" height="500" alt="Order Volume by Day of Week" src="https://github.com/user-attachments/assets/5726ed86-e0d8-47cc-8295-1834aadcd8d4" /></td>
+    <td><img width="870" height="490" alt="Order Volume by Hour of Day" src="https://github.com/user-attachments/assets/b2fe59e8-37d9-4b5e-9aac-11777b58cbbd" /></td>
   </tr>
 </table>
 
