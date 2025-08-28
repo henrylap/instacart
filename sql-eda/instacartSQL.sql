@@ -71,7 +71,7 @@ GROUP BY product_id, product_name
 ORDER BY orders DESC
 LIMIT 20;
 
--- reorder ratio by product name (filtering for support)
+-- reorder ratio by product name 
 SELECT product_name,
        ROUND(AVG(reordered::NUMERIC), 3) AS reorder_rate,
        COUNT(*) AS total_orders
@@ -81,7 +81,7 @@ HAVING COUNT(*) > 1000
 ORDER BY reorder_rate DESC
 LIMIT 15;
 
--- product reorder rate (with support filter)
+-- product reorder rate 
 SELECT 
     product_id,
     SUM(reordered) AS total_reorders,
@@ -122,7 +122,7 @@ FROM cart
 GROUP BY aisle, department
 ORDER BY items DESC;
 
--- reorder rate by department (with support filter)
+-- reorder rate by department 
 SELECT 
     department,
     COUNT(*) AS total_orders,
