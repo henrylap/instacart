@@ -82,7 +82,7 @@ Order volume peaks on Sundays and Mondays, which indicates that customers are mo
 
 <table>
   <tr>
-    <td><<img width="400" height="400" alt="Order Volume by Day of Week" src="https://github.com/user-attachments/assets/5726ed86-e0d8-47cc-8295-1834aadcd8d4" /></td>
+    <td><img width="400" height="400" alt="Order Volume by Day of Week" src="https://github.com/user-attachments/assets/5726ed86-e0d8-47cc-8295-1834aadcd8d4" /></td>
     <td><img width="500" height="500" alt="Order Volume by Hour of Day" src="https://github.com/user-attachments/assets/b2fe59e8-37d9-4b5e-9aac-11777b58cbbd" /></td>
   </tr>
 </table>
@@ -98,14 +98,15 @@ Produce was the leading department in terms of total order volume with over 1.4 
 
 <table>
   <tr>
-    <td><img width="1080" height="429" alt="Screenshot 2025-08-25 at 12 35 16 PM" src="https://github.com/user-attachments/assets/a1d2fa91-8c3d-4a95-9d24-0107c3ac548c" /></td>
+    <td><img width="986" height="389" alt="Top 15 dep by OV" src="https://github.com/user-attachments/assets/53ed1112-05bf-411a-a88e-39fe9dcdb28e" /></td>
    </tr>
 </table>
 
 <table>
   <tr>
-    <td><img width="537" height="164" alt="Screenshot 2025-08-25 at 5 56 41 PM" src="https://github.com/user-attachments/assets/2c1aa228-082c-4692-b695-63a6cdb242d3" /></td>
-    <td><img width="254" height="164" alt="Screenshot 2025-08-25 at 5 58 34 PM" src="https://github.com/user-attachments/assets/ae826241-fbe8-48ae-aeb0-1075cee0471d" /></td>
+    <td><img width="647" height="197" alt="1" src="https://github.com/user-attachments/assets/0538dca4-c26c-408a-a90b-30f96dc4c2ed" /></td>
+    <td>
+<img width="305" height="196" alt="2" src="https://github.com/user-attachments/assets/4a600564-77e4-414f-9152-5e79de367c1b" /></td>
    </tr>
 </table>
 
